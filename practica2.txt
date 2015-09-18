@@ -1,0 +1,60 @@
+<html>
+<body>
+<h1 style="color:green;">hello world</h1>
+
+<p>
+esta es la segunda practica de
+programacion4 
+
+<a href="http://facebook.com">
+has click aqui para ir a facebook
+</a>
+
+<p>
+
+<p>
+practica de programacion4
+que sera enviada a github
+
+<a href="https://github.com">
+
+has click aqui para ingresar a github
+</a>
+</p>
+
+<ol>
+
+<li> opcion uno</li>
+<li> opcion dos</li>
+<li> opcion tres</li>
+
+</ol>
+
+<img src="image.jpg">
+
+<table border="1">
+<tr>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+</tr>
+
+<tr>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+</tr>
+
+<tr>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+</tr>
+
+
+</body>
+</table>
+</html>
